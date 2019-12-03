@@ -1,0 +1,54 @@
+Rally:
+https://rally1.rallydev.com/#/95764434032ud/teamstatus?iterationKey=337731794196
+
+GE box:
+http://transportation.ent.box.com/
+
+Git:
+http://github.build.ge.com/tp-offboard
+
+PGAdmin4
+http://127.0.0.1:50631/browser/
+
+Microsoft Team:
+https://teams.microsoft.com/_#/xlsx/viewer/teams/https:~2F~2Fcapgemini.sharepoint.com~2Fsites~2FMRYTO~2FShared%20Documents~2FGeneral~2FChecklist~2FDevelopers~2FMRY%20&%20TO%20Checklist%20track%20Sprint%202.x.xlsx?threadId=19:67328db66ce143c5906c56342932d4fa@thread.skype&baseUrl=https:~2F~2Fcapgemini.sharepoint.com~2Fsites~2FMRYTO&fileId=BA3D6E38-9FBE-4BEB-8106-EBD088E841B9&ctx=files&viewerAction=view
+
+One IDM:
+https://oneidm.ge.com/
+
+GE Support:
+https://build.ge.com/support/
+
+
+Stg Support;
+https://stg.getransto.com/support/setSetup.do
+
+MRY Web Local:
+http://localhost:8080/MRYWeb/?uid=502558151
+
+MRYAdmin Local:
+http://localhost:8080/mryadmin/
+Uid:502558151
+pass:abc
+
+MRY Connectivity tool Local:
+http://localhost:8080/mryconnectivitychk/connectivitycheck.do
+
+
+----------------------------------------------------------------------
+SSO id:502558151
+password:Sriram@098R
+
+Jenkins:
+http://vdcalq03429.ics.cloud.ge.com:8080/jenkins/
+
+MRY Web Dev2:
+https://dev.getransry.com/MRYWeb2/home
+
+MRY Admin Dev2
+https://dev.getransry.com/mryadmin2/home.htm
+
+MRY Connectivity Dev2:
+https://dev.getransry.com/mryconnectivitychk2/connectivitycheck.do
+
+------------------------------------------------------------------------
